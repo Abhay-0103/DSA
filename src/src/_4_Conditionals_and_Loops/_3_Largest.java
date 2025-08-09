@@ -25,21 +25,21 @@ public class _3_Largest {
 
 
         // other menthid
-        int max = 0;
+        int maxu = 0;
         if (a > b) {
-            max = a;
+            maxu = a;
         } else {
-            max = b;
+            maxu = b;
         }
 
-        if (c > max) {
-            max = c;
+        if (c > maxu) {
+            maxu = c;
         }
 
 
         // one more other ease one
-        int max = Math.max(c, Math.max(a,b));
+        int maxi = Math.max(c, Math.max(a,b));
 
-        System.out.println("The Largret number is : " + max);
+        System.out.println("The Largret number is : " + maxi);
     }
 }
