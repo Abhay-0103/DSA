@@ -55,7 +55,7 @@ public class _2_Loops {
 
          */
 
-            int n = 1;
+            int num1 = 1;
             do {
                 System.out.println(n);
                 n++;
