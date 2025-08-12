@@ -1,6 +1,6 @@
 package _6_Functions_and_Methods;
 
-public class _1_Greeting {
+public class _2_Greeting {
     public static void main(String[] args) {
         greeting();
     }
